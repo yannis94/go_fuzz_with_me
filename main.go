@@ -16,6 +16,6 @@ func main() {
     if test {
         log.Printf("%d is prime !!", number)
     } else {
-        log.Printf("%d is not prime.",  number)
+        log.Printf("%d is not prime :(",  number)
     }
 }
